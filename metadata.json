@@ -1,0 +1,6 @@
+{
+  "name": "TRAMA — El ecosistema que conecta negocios",
+  "description": "Plataforma digital B2B argentina que conecta PyMEs, emprendedores, proveedores, grandes compradores, cámaras empresariales y recursos para multiplicar oportunidades. Powered by Vegen Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
